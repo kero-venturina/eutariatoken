@@ -1,4 +1,4 @@
-# eutariatoken
+# Eutaria Token
 
 Eutaria is an off-chain game and play-to-earn crypto currency. The project is deployed on the Binance Smart Chain (BSC) network and requires players to hold the Eutaria token to unlock play-to-earn features.
 
